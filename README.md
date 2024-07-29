@@ -13,6 +13,8 @@ sgnsugunas@gmail.com
 LANGUAGE AND TOOLS
 
 <a href="https://www.hackerrank.com/profile/sgnsugunas" target="blank"> <img align="centre" src="https://github.com/user-attachments/assets/97bdfc93-38fa-4f9c-8186-093e68e57f12" height="40" width="40">       <img src="https://github.com/user-attachments/assets/267f597d-9232-4024-9b94-6bc6b9512a2c" height="40" width="40">
+<img src="https://github.com/user-attachments/assets/5df96ccd-250a-461d-bb4b-e8b30fd7f87b" height="40" width="40">
+
 
 
 
